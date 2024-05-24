@@ -18,7 +18,10 @@ body {
     grid-template-columns: repeat(3, 1fr); 
     max-width: 90vw;
     margin: 1rem auto;
-    justify-content: center;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    flex-direction: row;
+    gap: 20px;
 }
 
 .card {
