@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="Stylesheet" href="ambalong_mde.css"> 
+</head>
+<body>
+    <div class="container">
+
+        <div class="icon bulb">
+            <img src="bullbasaur.png" alt="Bullbasaur"> 
+            <p>Bullbasaur</p>
+            <img src="pokeball.png" id="pokeball" alt="pokeball">
+            <div class="types">
+                <p class="type 1 bug">Grass</p>
+                <p class="type 2 poison">Poison</p>
+            </div>
+        </div>
+
+        <div class="icon cat"> 
+            <img src="caterpie.png" alt="Caterpie"> 
+            <p>Caterpie</p>
+            <img src="pokeball.png" id="pokeball" alt="pokeball">
+            <div class="types">
+                <p class="type 1 bug">Bug</p>
+            </div>
+        </div>
+
+        <div class="icon char"> 
+            <img src="charmander1.png" alt="Charmander">
+            <p>Charmander</p>
+            <img src="pokeball.png" id="pokeball" alt="pokeball">
+            <div class="types">
+                <p class="type 1 fire">Fire</p>
+            </div>
+        </div>
+
+        <div class="icon meow">
+            <img src="meowth.png" alt="Meowth">
+            <p>Meowth</p>
+            <img src="pokeball.png" id="pokeball" alt="pokeball">
+            <div class="types">
+                <p class="type 1 normal">Normal</p>
+            </div>
+        </div>
+
+        <div class="icon jig">
+            <img src="jigglypuff.png" alt="Jigglypuff">
+            <p>Jigglypuff</p>
+            <img src="pokeball.png" id="pokeball" alt="pokeball">
+            <div class="types">
+                <p class="type 1 normal">Normal</p>
+                <p class="type 2 fairy">Fairy</p>
+            </div>
+        </div>
+
+        
+        <div class="icon mew">
+            <img src="mew.png" alt="Mew">
+            <p>Mew</p>
+            <img src="pokeball.png" id="pokeball" alt="pokeball">
+            <div class="types">
+                <p class="type 1 psychic">Psychic</p>
+            </div>
+        </div>
+
+         <div class="icon snor">
+            <img src="snorlax.png" alt="Snorlax">
+            <p>Snorlax</p>
+            <img src="pokeball.png" id="pokeball" alt="pokeball">
+            <div class="types">
+                <p class="type 1 normal">Normal</p>
+            </div>
+        </div>
+
+        <div class="icon rat"> 
+            <img src="rattata.png" alt="Rattata">
+            <p>Rattata</p>
+            <img src="pokeball.png" id="pokeball" alt="pokeball">
+            <div class="types">
+                <p class="type 1 normal">Normal</p>
+            </div>
+        </div>
+
+    
+
+        <div class="icon man">
+            <img src="mankey.png" alt="Mankey">
+            <p>Mankey</p>
+            <img src="pokeball.png" id="pokeball" alt="pokeball">
+            <div class="types">
+                <p class="type 1 fighting">Fighting</p>
+            </div>
+        </div>
+
+        <div class="icon pid"> 
+            <img src="pidgey.png" alt="Pidgey"> 
+            <p>Pidgey</p>
+            <img src="pokeball.png" id="pokeball" alt="pokeball">
+            <div class="types">
+                <p class="type 1 normal">Normal</p>
+                <p class="type 2 flying">Flying</p>
+            </div>
+        </div>
+
+        <div class="icon squi">
+            <img src="squirtle1.png" alt="Squirtle"> 
+            <p>Squirtle</p>
+            <img src="pokeball.png" id="pokeball" alt="pokeball">
+            <div class="types">
+                <p class="type 1 water">Water</p>
+            </div>
+        </div>
+
+        <div class="icon ven">
+            <img src="venonat1.png" alt="Venonat"> 
+            <p>Venonat</p>
+            <img src="pokeball.png" id="pokeball" alt="pokeball">
+            <div class="types">
+                <p class="type 1 bug">Bug</p>
+                <p class="type 2 poison">Poison</p>
+            </div>
+        </div>
+
+</body>
+</html>
