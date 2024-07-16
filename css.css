@@ -518,33 +518,3 @@ input, textarea {
     }
 
 }
-.blog {
-    color: #fff;
-    background: rgb(34, 31, 31);
-    padding: 100px 0; 
-    font-family: 'Ubuntu', sans-serif;
-}
-
-.blog .serv-content {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-    padding: 20px; 
-}
-
-.blog .serv-content .card {
-    width: calc(33% - 20px);
-    margin-bottom: 20px; 
-}
-
-@media (max-width: 991px) {
-    .blog .serv-content .card {
-        width: calc(50% - 20px);
-    }
-}
-
-@media (max-width: 690px) {
-    .blog .serv-content .card {
-        width: 100%; 
-    }
-}
